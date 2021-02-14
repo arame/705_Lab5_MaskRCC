@@ -1,0 +1,19 @@
+# Build results
+
+[Ll]og/
+.vscode/
+.data/
+data/
+
+*.pyc
+*.pkl
+*.pt
+*.png
+*.txt
+*.pdf
+*.doc
+*.zip
+*.pth
+*.jpg
+*.xml
+
